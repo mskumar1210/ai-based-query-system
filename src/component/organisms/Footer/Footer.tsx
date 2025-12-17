@@ -77,45 +77,36 @@ export const Footer = () => {
 
                     {/* BRANDING */}
                     <div>
-                        <div className="footer-title">Ram Ram JII 🔱🚩</div>
+                        <div className="footer-title">Krishi Vaani</div>
                         <div className="footer-tagline">
-                            Exploring the soul of Jharkhand through eco & cultural tourism.
+                            Exploring Agriculture.
                         </div>
                     </div>
 
                     {/* QUICK LINKS */}
                     <div>
                         <h3>Quick Links</h3>
-                        <a href="#destinations">Destinations</a>
-                        <a href="#plan-trip">Plan Trip</a>
                         <a href="#marketplace">Marketplace</a>
                         <a href="#about">About Us</a>
                     </div>
 
-                    {/* POPULAR PLACES */}
-                    <div>
-                        <h3>Popular Places</h3>
-                        <a href="#">Netarhat</a>
-                        <a href="#">Patratu Valley</a>
-                        <a href="#">Betla National Park</a>
-                        <a href="#">Hundru Falls</a>
-                    </div>
 
                     {/* CONTACT */}
                     <div>
                         <h3>Contact</h3>
-                        <p>Email: tourism@jharkhand.in</p>
-                        <p>Phone: +91 98765 43210</p>
-                        <p>Jharkhand, India</p>
+                        <p>Email: agriculture@kerala.in</p>
+                        <p>Phone: +91 xxxxxxxxxx</p>
+                        <p>Kerala, India</p>
                     </div>
 
                 </div>
 
                 {/* BOTTOM BAR */}
                 <div className="footer-bottom">
-                    © 2025 Jharkhand Tourism • Designed with ❤ in India
+                    © 2025 Agriculture of Kerala
                 </div>
             </footer>
         </>
     );
 };
+export default Footer;
